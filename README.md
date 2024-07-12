@@ -1,4 +1,4 @@
-## Hi there! I'm Cláudio Soriano, an Agronomist with master's degree in applied meteorology doing my PhD! 🖖🏼
+## Hi there! I'm Cláudio Soriano, an Agricultural Engineer with MSc in applied Meteorology doing my PhD! 🖖🏼
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-soriano-70a754124)
 
 ![Soriano GitHub stats](https://github-readme-stats.vercel.app/api?username=zSoriano&show_icons=true&theme=dark)
